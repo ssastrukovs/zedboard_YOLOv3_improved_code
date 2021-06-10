@@ -6,6 +6,8 @@ So, I slightly modified the application code to display those classes and their 
 
 Just replace the "src" folder, when you're done following the aforementioned tutorial, and put the "coco.names" file next to your Makefile :)
 
+--
+
 Be aware that on smaller images, lines can be too thick, and numbers/words too big. Same goes to big images (but in that case lines \ text size are too small). 
 Line thickness and text size are both hardcoded, so you will have to change them manually in main.cpp. 
 
@@ -17,6 +19,8 @@ putText() and rectangle() openCV functions' arguments can be found in online man
 --
 
 Another nifty feature is probability threshold. It is written in utils.h as a constant ("CONF") in line #18. It defines which classes will be displayed: if their detection probability is less that this number, they will not display at all.
+
+--
 
 Good luck with your shenanigans!
 
