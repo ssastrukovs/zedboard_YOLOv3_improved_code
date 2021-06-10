@@ -24,4 +24,5 @@ Another nifty feature is probability threshold. It is written in utils.h as a co
 
 Good luck with your shenanigans!
 
-The final result:![result](https://user-images.githubusercontent.com/26542158/121595344-3b3cce80-ca4f-11eb-8c79-d24ae404220c.jpg)
+The final result:![image](https://user-images.githubusercontent.com/26542158/121598550-f87cf580-ca52-11eb-8cbe-d3fb8e6ffc20.png)
+
