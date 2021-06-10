@@ -26,3 +26,5 @@ Good luck with your shenanigans!
 
 The final result:![image](https://user-images.githubusercontent.com/26542158/121598550-f87cf580-ca52-11eb-8cbe-d3fb8e6ffc20.png)
 
+Big thanks to Tallinn Technical University of Technology, and especially for Lembitu Valdmets and Madis Kerner, authors of aforementioned tutorial, for contributing to Xilinx community by creating that article.
+
