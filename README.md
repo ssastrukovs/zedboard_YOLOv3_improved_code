@@ -18,7 +18,7 @@ putText() and rectangle() openCV functions' arguments can be found in online man
 
 --
 
-Another nifty feature is probability threshold. It is written in utils.h as a constant ("CONF") in line #18. It defines which classes will be displayed: if their detection probability is less that this number, they will not display at all.
+Another nifty feature is probability threshold. It is written in utils.h as a constant ("CONF") in line #18. It defines which classes will be displayed: if their detection probability is less that this number (probability value varies from 0, as in FALSE, to 1, as in TRUE), they will not display at all.
 
 --
 
