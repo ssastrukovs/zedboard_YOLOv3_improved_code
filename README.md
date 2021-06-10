@@ -6,7 +6,7 @@ So, I slightly modified the code to display those classes and their probabilitie
 
 Just replace the "src" folder, when you're done following the aforementioned tutorial, and put the "coco.names" file next to your Makefile :)
 
-Be aware that on smaller images, lines can be too thick, and numbers/words too big. Same goes to big images. 
+Be aware that on smaller images, lines can be too thick, and numbers/words too big. Same goes to big images (but then lines\text size are too small). 
 Line thickness and text size are both hardcoded, so you will have to change them manually in the code. 
 
 The line, that you need to change to change the text size is #319. 
