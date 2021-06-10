@@ -1,4 +1,4 @@
-# zedboard_YOLOv3
+# zedboard_YOLOv3 improved code
 Contains code for implementing the YOLOv3 CNN on ZedBoard.
 
 After following this tutorial: https://digikogu.taltech.ee/et/Download/6c8fe4a6-97dc-4235-aac5-7470bd0b9487, I encountered some problems with displaying names of detected classes on a result image.
