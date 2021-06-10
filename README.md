@@ -14,6 +14,8 @@ To change the line thickness - #310.
 
 putText() and rectangle() openCV functions' arguments can be found in online manuals.
 
+Another nifty feature is probability threshold. It is written in utils.h as a constant ("CONF") in line #18. It defines which classes will be displayed - if their detection probability is less that this number, they will not display at all.
+
 Good luck with your shenanigans!
 
 The final result:![result](https://user-images.githubusercontent.com/26542158/121595344-3b3cce80-ca4f-11eb-8c79-d24ae404220c.jpg)
