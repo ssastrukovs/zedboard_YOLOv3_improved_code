@@ -6,7 +6,7 @@ So, I slightly modified the code to display those classes and their probabilitie
 
 Just replace the "src" folder, when you're done following the aforementioned tutorial, and put the "coco.names" next to the Makefile :)
 
-Be aware that on smaller images, lines can be too thick, and numbers/words too big. Line thickness and text size are both hardcoded, so you will have to change them manually in the code. The line, that you need to change, is #319. putText() openCV function's arguments can be found in online manuals.
+Be aware that on smaller images, lines can be too thick, and numbers/words too big. Same goes to big images. Line thickness and text size are both hardcoded, so you will have to change them manually in the code. The line, that you need to change, is #319. putText() openCV function's arguments can be found in online manuals.
 
 Good luck with your shenanigans!
 
