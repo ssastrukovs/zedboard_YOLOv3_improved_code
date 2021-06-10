@@ -8,6 +8,7 @@ Just replace the "src" folder, when you're done following the aforementioned tut
 
 Be aware that on smaller images, lines can be too thick, and numbers/words too big. Same goes to big images. 
 Line thickness and text size are both hardcoded, so you will have to change them manually in the code. 
+
 The line, that you need to change, is #319. putText() openCV function's arguments can be found in online manuals.
 
 Good luck with your shenanigans!
