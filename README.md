@@ -24,6 +24,6 @@ Another nifty feature is probability threshold. It is written in utils.h as a co
 
 Good luck with your shenanigans!
 
-The final result:![image](https://user-images.githubusercontent.com/26542158/121598550-f87cf580-ca52-11eb-8cbe-d3fb8e6ffc20.png)
+The final result:![image](<images/shawarma_labeled.jpg>)
 
 _Big thanks to Tallinn Technical University of Technology, and especially for Lembitu Valdmets and Madis Kerner, main authors of aforementioned tutorial, for making this possible._
